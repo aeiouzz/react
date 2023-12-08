@@ -19,7 +19,8 @@
 
 
 # react에서 emmit 적용하기
-![image](https://github.com/aeiouzz/react/assets/145514483/b1fa34c5-dca0-466d-845f-698ae5ba962d)
+![image](https://github.com/aeiouzz/react/assets/145514483/2cc13963-40aa-42a0-9adf-860f83b8e0a2)
+
 ```
  "emmet.excludeLanguages": {"javascript":"javascriptreact"}
 ```
@@ -30,5 +31,17 @@
 출력 ->
 
 ![image](https://github.com/aeiouzz/react/assets/145514483/a5853512-7e21-4a52-8766-39f9cc9aeca6)
+
+
+
+![image](https://github.com/aeiouzz/react/assets/145514483/8cba7fca-ff7b-4481-a762-b50b50dd7f61)
+
+출력 ->
+
+![image](https://github.com/aeiouzz/react/assets/145514483/2f6ebdaa-18d7-478c-8a65-171ef4f62702)
+
+
+
+
 
 
