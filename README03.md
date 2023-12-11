@@ -1,6 +1,8 @@
 # component 만들기
 
-
+```
+jsx에 rafce 입력!!!
+```
 
 ![image](https://github.com/aeiouzz/react/assets/145514483/a4240777-d30f-4675-9fd4-0f25f5b220a3)
 출력 ->
@@ -41,6 +43,9 @@
 ![image](https://github.com/aeiouzz/react/assets/145514483/2f6ebdaa-18d7-478c-8a65-171ef4f62702)
 
 
+
+새로운 ex
+![image](https://github.com/aeiouzz/react/assets/145514483/8a980174-824d-4f84-86b5-513e98b83663)
 
 
 
