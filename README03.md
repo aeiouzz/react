@@ -47,6 +47,13 @@ jsx에 rafce 입력!!!
 새로운 ex
 ![image](https://github.com/aeiouzz/react/assets/145514483/8a980174-824d-4f84-86b5-513e98b83663)
 
+출력 ->
+
+![image](https://github.com/aeiouzz/react/assets/145514483/b50f8365-cb79-4f3a-83ad-223121f2bac2)
+
+
+
+
 
 
 
