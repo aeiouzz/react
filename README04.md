@@ -9,3 +9,9 @@ useState(0)의 0은 num의 초기값이다.
 ```
 
 ![image](https://github.com/aeiouzz/react/assets/145514483/3bf1e3bd-a6e7-4270-a513-83d22aeb45cd)
+
+
+
+!!괄호 조심!!
+![image](https://github.com/aeiouzz/react/assets/145514483/39126b2d-8fdb-42e4-88ea-b83ce3186ae4)
+
