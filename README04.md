@@ -22,3 +22,7 @@ useState(0)의 0은 num의 초기값이다.
 ![image](https://github.com/aeiouzz/react/assets/145514483/41a6be89-98a7-46ea-8a1b-e2d427ea934b)
 
 
+출력 ->
+![image](https://github.com/aeiouzz/react/assets/145514483/54a2b132-ebea-4606-9390-180abfe562bf)
+
+
