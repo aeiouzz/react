@@ -30,7 +30,7 @@ useState(0)의 0은 num의 초기값이다.
 
 # 구조분해
 ```
-import React from 'react'
+import React from 'react';
 
 const Profile = ({img,name,title,isNew}) => {
   // || -> 또는 A || B 둘 중에 하나라도 true이면 true
@@ -42,7 +42,7 @@ const Profile = ({img,name,title,isNew}) => {
   // const isNew=props.isNew; 
 
   // 구조분해 destructure
-// const {img,name,title,isNew}=props;
+  // const {img,name,title,isNew}=props;
 
 
   return(
