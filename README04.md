@@ -15,3 +15,10 @@ useState(0)의 0은 num의 초기값이다.
 !!괄호 조심!!
 ![image](https://github.com/aeiouzz/react/assets/145514483/39126b2d-8fdb-42e4-88ea-b83ce3186ae4)
 
+
+
+
+# 부분적으로 값 받기
+![image](https://github.com/aeiouzz/react/assets/145514483/41a6be89-98a7-46ea-8a1b-e2d427ea934b)
+
+
