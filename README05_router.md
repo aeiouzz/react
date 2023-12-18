@@ -21,3 +21,15 @@ npm install react-router-dom
 # 링크로 연결해서 페이지로 갈 때
 link는 a태그로 변환된다. 라우터 간에 이동할 수 있게 도와주는 링크다.
 ![image](https://github.com/aeiouzz/react/assets/145514483/dd104309-7b99-45af-9c16-4f83ea0839b3)
+
+
+클릭하면 about으로 넘어감
+
+
+![image](https://github.com/aeiouzz/react/assets/145514483/4af9b704-9978-468f-b3d5-b79a24ce8896)
+
+
+클릭하면 homepage로 넘어감
+
+
+![image](https://github.com/aeiouzz/react/assets/145514483/520b72f6-8a60-45ee-8643-755bafc202f2)
