@@ -17,12 +17,13 @@
      npm start
      yarn start
 
-
+```
 1. 폴더 생성 (ex.my_react)
 2. npm install -g create-react-app
 3. npx create-react-app (my-app) 폴더명 마음대로
 4. cd my-app
 5. npm start
+```
 
 * spa : single page application
        페이지는 하나인데 여러 개인 것처럼 눈속임을 한다.
