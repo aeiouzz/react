@@ -38,3 +38,8 @@ link는 a태그로 변환된다. 라우터 간에 이동할 수 있게 도와주
 
 
 # 버튼을 클릭하면
+![image](https://github.com/aeiouzz/react/assets/145514483/50ca2415-8944-4db8-9b83-2c493405272b)
+![image](https://github.com/aeiouzz/react/assets/145514483/c94bbc7b-451c-42f3-8c8f-449eebc0a940)
+![image](https://github.com/aeiouzz/react/assets/145514483/43b13657-c30e-4f57-b93c-24d489b32b71)
+![image](https://github.com/aeiouzz/react/assets/145514483/c13b0782-ebf6-4d7e-8ebb-99114dba8bec)
+
