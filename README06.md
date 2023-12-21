@@ -14,3 +14,10 @@
 
 
 # useEffect(()=>{},[products, count]) component가 실행될 때 처음 한 번 실행된 후 products와 count 중 하나라도 값이 바뀌면 useEffect가 다시 실행된다.(2개 다 바뀌어도 한 번만 실행됨)
+
+useEffect가 종료되는 시점에서 데이터가 변경된다.
+![image](https://github.com/aeiouzz/react/assets/145514483/fa710ae7-f8ab-4871-9a8d-fcc088ded25c)
+
+
+
+
