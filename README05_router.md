@@ -21,6 +21,20 @@ import { BrowserRouter } from 'react-router-dom';
 # page를 만들고 그 페이지의 경로를 router에 등록 -> Routes, Route
 ![image](https://github.com/aeiouzz/react/assets/145514483/861c03c4-dddc-4b6d-9439-3918aadbd54e)
 
+# RESTFUL (representation state transfer)
+# restful routes는 url 패턴을 말한다
+* get 데이터 가져올 때 사용하는 패턴
+* post : 새로운 데이터 만들 때 사용하는 패턴
+* put : 기존 데이터를 수정할 때 사용하는 패턴
+* delete : 데이터를 삭제할 때 사용하는 패턴
+
+# 내가 선택한 상품의 상세 페이지로 이동하고자 한다면
+/subjects/:id 방법을 사용하자!
+
+이것은 파라미터라는 뜻이다.
+
+
+
 
 ![image](https://github.com/aeiouzz/react/assets/145514483/3b5287d4-fce9-4edc-87e2-5ee92331f30a)
 
