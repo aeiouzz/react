@@ -6,3 +6,9 @@
 # 사용자가 입력한 값을 상테ㅐ값을 적용하기 위해서 e.target.value를 사용한다ㅎ
 
 ![image](https://github.com/aeiouzz/react/assets/145514483/8cce39f3-b373-44bf-9f62-fc8ca3ab7df3)
+
+# <form onSubmit={(e)=>{e.preventDefault()}}
+# form은 새로 고침이 일어나는 속성을 가지고 있다. 그래서 이를 막기 위해 e.preventDefault()를 사용함
+
+# input >> onChange
+# form >> onSubmit
