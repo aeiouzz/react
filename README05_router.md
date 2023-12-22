@@ -16,6 +16,9 @@ import { BrowserRouter } from 'react-router-dom';
 
 # <BrowserRouter> : 모든 react UI 전체를 BrowserRouter가 감싸주어야 한다.
 ![image](https://github.com/aeiouzz/react/assets/145514483/ba70d5ca-3ada-4859-bc31-224dbdef0204)
+
+
+# page를 만들고 그 페이지의 경로를 router에 등록 -> Routes, Route
 ![image](https://github.com/aeiouzz/react/assets/145514483/861c03c4-dddc-4b6d-9439-3918aadbd54e)
 
 
