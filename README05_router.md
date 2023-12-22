@@ -13,7 +13,8 @@ npm install react-router-dom
 import { BrowserRouter } from 'react-router-dom';
 ```
 
-# <BrowserRouter> : react 전체를 싸주어야 한다.
+
+# <BrowserRouter> : 모든 react UI 전체를 BrowserRouter가 감싸주어야 한다.
 ![image](https://github.com/aeiouzz/react/assets/145514483/ba70d5ca-3ada-4859-bc31-224dbdef0204)
 ![image](https://github.com/aeiouzz/react/assets/145514483/861c03c4-dddc-4b6d-9439-3918aadbd54e)
 
