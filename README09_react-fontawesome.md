@@ -1,5 +1,5 @@
 # 🎀 react fontawesome 설치하기
-
+https://fontawesome.com/docs/web/use-with/react/
 ```
 !!!설치!!!
 npm i --save @fortawesome/fontawesome-svg-core
