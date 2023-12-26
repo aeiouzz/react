@@ -15,9 +15,3 @@
 / subjects는 고정적인 값이나 :id는 가변적인 값이다. 어떤 임의의 값을 만들어서 개별 아이템으로 넘길 수 있다.
 ```
 
-
-
-![image](https://github.com/aeiouzz/react/assets/145514483/3b5287d4-fce9-4edc-87e2-5ee92331f30a)
-
-
-![image](https://github.com/aeiouzz/react/assets/145514483/f4f2d9af-073f-4a9f-aacc-e87faf4057eb)
