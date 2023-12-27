@@ -10,3 +10,4 @@ https://www.npmjs.com/package/json-server
 4. http://localhost:3004/products
 (제대로 연결되었는지 확인)
 ```
+![image](https://github.com/aeiouzz/react/assets/145514483/fac3c4d7-592d-4d7a-81cc-d7fc31a02fa0)
