@@ -20,3 +20,10 @@ http://localhost:3000/product/1
 ![image](https://github.com/aeiouzz/react/assets/145514483/af6663b6-73d1-4deb-989c-78ba234e60a8)
 
 product?.img product.img를 출력하라
+
+
+# 쿼리 스트링
+쿼리 스트링은 웹 주소 에 추가적인 매개변수를 전달하는 방법 중 하나입니다.
+쿼리스트링은 url은 끝에 "?" 문자로 시작하며, 이후에 이름=값 형태의 매개변수들이 "&" 문자로 구분되어 나열됩니다.
+
+navigate(`/?q=${ketword}`) -> 쿼리스트링(query string) 입력하기
